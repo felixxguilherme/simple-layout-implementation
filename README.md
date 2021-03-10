@@ -9,4 +9,4 @@ The designs were created to the following widths:
 
 Basic responsive layout using flexbox
 
-trainning projecto from frontend.io
+trainning using project from frontend.io
