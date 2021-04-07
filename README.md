@@ -1,12 +1,12 @@
-**To do this challenge you need a basic understanding of HTML and CSS.**
+**Para fazer esse desafio é preciso um conhecimento básico em HTML e CSS**
 
 ## Layout
 
-The designs were created to the following widths:
+O design responsivo foi criado para dispositivos:
 
 - Mobile: 375px
 - Desktop: 1440px
 
-Basic responsive layout using flexbox
+Layout básico e responsivo usando css flex-box
 
-trainning using project from frontend.io
+Treinamento usando layout fornecido por frontendmentor.io
